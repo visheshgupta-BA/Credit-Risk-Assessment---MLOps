@@ -6,11 +6,11 @@
 <p align="center">  
     <br>
 	<a href="#">
-	<img height=130 src="https://github.com/neelanap1999/MLOPSPROJECT/blob/main/Image/python.png" alt="Docker" title="Docker" hspace=20 />
+	<img height=130 src="https://github.com/visheshgupta-BA/Credit-Risk-Assessment---MLOps/blob/main/Image/python.png" alt="Docker" title="Docker" hspace=20 />
         <img height=100 src="https://cdn.svgporn.com/logos/airflow-icon.svg" alt="Airflow" title="Airflow" hspace=20 /> 
-        <img height=150 src="https://github.com/neelanap1999/MLOPSPROJECT/blob/main/Image/flow.svg" title="Tensorflow" hspace=20 /> 
+        <img height=150 src="https://github.com/visheshgupta-BA/Credit-Risk-Assessment---MLOps/blob/main/Image/flow.svg" title="Tensorflow" hspace=20 /> 
         <img height=100 src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="Google Cloud Platform" title="Google Cloud Platform" hspace=20 /> 
-        <img height=130 src="https://github.com/neelanap1999/MLOPSPROJECT/blob/main/Image/Docker.png" alt="Flask" title="Flask" hspace=20 /> 
+        <img height=130 src="https://github.com/visheshgupta-BA/Credit-Risk-Assessment---MLOps/blob/main/Image/Docker.png" alt="Flask" title="Flask" hspace=20 /> 
  
   </a>	
 </p>
