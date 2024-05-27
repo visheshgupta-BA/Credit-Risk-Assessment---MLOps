@@ -80,7 +80,7 @@ Attached is the URL for data:
 ---
 
 # Setup Instructions
-Please confirm that `Python >= 3.8` or a later version is present on your system prior to installation. This software is designed to be compatible with Windows, Linux, and macOS platforms.
+Please confirm that `Python >= 3.8` or a later version is present on your system prior to installation. This software is designed to be compatible with Windows, Linux, and macOS platforms
 
 # Prerequisities
 1. git
